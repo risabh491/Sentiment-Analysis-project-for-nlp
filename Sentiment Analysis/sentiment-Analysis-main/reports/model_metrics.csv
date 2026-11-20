@@ -1,0 +1,6 @@
+metric,value
+accuracy,0.7606666666666667
+macro_f1,0.7616568967800966
+training_samples,11999.0
+testing_samples,3000.0
+tfidf_features,10000.0
